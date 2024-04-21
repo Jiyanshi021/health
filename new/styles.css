@@ -87,7 +87,7 @@ body {
 
 /* Parallax section */
 .parallax {
-  background-image: url('image/image1.png');/* Placeholder image URL */
+  background-image: url("image/img2.png");/* Placeholder image URL */
   background-size: cover;
   background-attachment: fixed;
   height: 100vh;
